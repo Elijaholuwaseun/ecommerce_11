@@ -322,6 +322,27 @@ export const products = [
   quantity: '20',
   description: '',
   discount:''
+},
+{
+  id: 77,
+  name: 'Oluwaseun Yam Pounder',
+  price: '$1000.99',
+  image: require('../../assets/images/yampounder.png'),
+  category:'Electronics',
+  quantity: '200',
+  description: '7 Litres Yam Pounder Multifunctional Food Machine',
+  discount:'10%'
 }
+{
+  id: 799,
+  name: 'insulated launch bag',
+  price: '$900.99',
+  image: require('../../assets/images/insulated launch bag.png'),
+  category:'Fashion',
+  quantity: '50',
+  description: 'Sagacious Insulated Launch Bag',
+  discount:'20%'
+}
+
 
 ];
